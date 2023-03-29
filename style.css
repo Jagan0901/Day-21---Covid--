@@ -1,0 +1,44 @@
+h1{
+  /* background-color: black; */
+  color: brown;
+  text-align: center;
+  font-size: 50px;
+    
+}
+
+div{
+  height: 100px;
+  text-align: center;
+}
+
+body{
+  background-image: url(https://www.cdc.gov/media/dpk/diseases-and-conditions/coronavirus/images/outbreak-coronavirus-world-1024x506px.jpg?_=31301)
+}
+
+p{
+  text-align: center;
+  font-size: 25px;
+  color:black;
+  font-weight: 900;
+  /* margin: 40px; */
+  /* border: solid 2px whitesmoke; */
+  /* display: inline; */
+  /* margin-left: 500px;
+  margin-right: 500px; */
+  /* background-color: black; */
+
+}
+
+input{
+  width: 200px;
+  height: 40px;
+  border: 2px solid black;
+  border-radius:10px;
+}
+
+button{
+  width: 100px;
+  height: 30px;
+ border-radius: 50px;
+ 
+}
